@@ -15,7 +15,7 @@ if nterms <= 0:
              print(n1)
              # generate fibonacci sequence
          else:
-                print("Fibonacci sequences:")
+                print("Fibonacci sequencesssss:")
                    while count < nterms:
                               print(n1)
                                      nth = n1 + n2
