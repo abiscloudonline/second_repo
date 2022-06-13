@@ -8,7 +8,7 @@ count = 0
 
 # check if the number of terms is valid
 if nterms <= 0:
-       print("Please enter a positive that is + integer")
+       print("Please enter a negative` that is + integer")
        # if there is only one term, return n1
    elif nterms == 1:
           print("Fibonacci sequence uptooooo",nterms,":")
